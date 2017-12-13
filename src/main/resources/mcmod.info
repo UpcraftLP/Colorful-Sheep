@@ -1,0 +1,16 @@
+[
+{
+  "modid": "colorful-sheep",
+  "name": "Colorful Sheep",
+  "description": "makes colored sheep spawn naturally!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://minecraft.curseforge.com/projects/colorful-sheep",
+  "updateUrl": "",
+  "authorList": ["UpcraftLP"],
+  "credits": "(C)2017 UpcraftLP",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
